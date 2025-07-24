@@ -1,6 +1,6 @@
 # 🐍 Estudos de Python - Introdução
 
-Este repositório contém minhas **anotações, exercícios e práticas** realizados durante meus estudos de Python, com base na playlist **"Introdução ao Python"** do canal [Tá Me Viw](https://www.youtube.com/playlist?list=PL85ITvJ7FLoidT5D5i4J29ERzE2LrI-B4).
+Este repositório contém minhas **anotações, exercícios e práticas** realizados durante meus estudos de Python, com base na playlist **"Introdução ao Python"** do canal [Tá Me Vhy](https://www.youtube.com/playlist?list=PL85ITvJ7FLoidT5D5i4J29ERzE2LrI-B4).
 
 ## 💡 Objetivo
 
